@@ -16,6 +16,6 @@ format=json&nojsoncallback=1&safe_search=1&text=kittens&page=2
  If User scroll down and reach to the bottom based on prvious response App will query server fro next page 
  and return the next page result and rquest is sent to Thread pool to load Images .
  
- ImageSearchActivity will use recyclerView with Grid layout of column 3 .
+ <a>ImageSearchActivity</a> will use recyclerView with Grid layout of column 3 .
  recyclerView is registered with listener InfiniteScrollListener
  
