@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Uber Image Search</string>
+    <string name="search_text">Search</string>
+    <string name="search_image_text">Search Image</string>
+    <string name="search_header">Search result for</string>
+    <string name="no_result">No Result Found</string>
+    <string name="searching_text">Searching for</string>
+    <string name="loading_text">Loading more for</string>
+    <string name="empty_validation_text">Please Enter text to Search</string>
+</resources>
